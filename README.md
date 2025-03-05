@@ -1,3 +1,3 @@
 # tolink
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/n4n45h1/tolink)
+https://tolink-file.vercel.app
+https://tolink.netlify.app
