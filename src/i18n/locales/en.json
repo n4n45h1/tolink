@@ -1,0 +1,62 @@
+{
+  "title": "File Transfer Service",
+  "dropzone": {
+    "title": "Drag & drop or click to select files",
+    "selected": "Selected file"
+  },
+  "form": {
+    "password": {
+      "label": "Password Protection (optional)",
+      "placeholder": "Set password"
+    },
+    "downloadLimit": {
+      "label": "Download Limit (optional)",
+      "placeholder": "Enter number"
+    },
+    "expiry": {
+      "label": "Expiry Period",
+      "options": {
+        "1": "1 day",
+        "7": "7 days",
+        "30": "30 days",
+        "100": "100 days"
+      }
+    },
+    "upload": "Upload",
+    "uploading": "Uploading..."
+  },
+  "link": {
+    "title": "File link generated",
+    "shareLink": "Share Link",
+    "password": "Password",
+    "show": "Show",
+    "hide": "Hide",
+    "sharePassword": "Share this password with the file recipient",
+    "info": "Share this link to allow file download.",
+    "passwordInfo": "Share the password separately through a secure method."
+  },
+  "download": {
+    "title": "Download File",
+    "password": {
+      "title": "Password Protected File",
+      "description": "This file requires a password to download",
+      "label": "Password",
+      "placeholder": "Enter password",
+      "submit": "Verify"
+    },
+    "fileName": "File name",
+    "fileSize": "Size",
+    "remainingDownloads": "Remaining downloads",
+    "button": "Download",
+    "started": "Download started",
+    "retry": "Download again",
+    "home": "Return to Home"
+  },
+  "error": {
+    "title": "An error occurred",
+    "invalidLink": "Invalid download link",
+    "fileNotFound": "File not found. The link may be invalid or expired.",
+    "incorrectPassword": "Incorrect password",
+    "expired": "This link has expired or reached its download limit."
+  }
+}
